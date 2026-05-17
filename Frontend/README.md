@@ -1,0 +1,3 @@
+- using tailwind
+-using daisyUI {for components}
+-using react-router-dom
